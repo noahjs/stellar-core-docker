@@ -6,7 +6,7 @@ Docker image to build and run Stellar Core
 Usage
 -----
 
-To create the image `stellar-core`, execute the following command on the docker-hello-world folder:
+To create the image `stellar-core`, execute the following commands:
 
 ```sh
 git clone git@github.com:noahjs/stellar-core-docker.git
